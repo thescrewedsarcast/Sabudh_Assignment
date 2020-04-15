@@ -1,5 +1,7 @@
+"""
+Lab 10 Rahul Gupta 1700161C202 CSC
 QUESTION-1
-
+"""
 import matplotlib.pyplot as plt
 from matplotlib import style
 import numpy as np
