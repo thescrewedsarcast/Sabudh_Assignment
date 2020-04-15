@@ -1,2 +1,2 @@
 # Sabudh_Assignment
-Lab Assesment given by Sabudh Foundation 
+Lab Assessment given by Sabudh Foundation 
